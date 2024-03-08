@@ -77,3 +77,19 @@ footer {
     background-color: #333;
     color: #fff;
 }
+/* CSS for Add to Cart button */
+.add-to-cart {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Padding */
+    border: none; /* No border */
+    cursor: pointer; /* Cursor style */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+/* Hover effect */
+.add-to-cart:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
